@@ -6,5 +6,6 @@ Microprojects:
 
 Python
 - ML with Logistic Regression. To predict whether a customer will buy a product (1) or not (0) based on features such as age, income, and gender.
+- ML with K Nearest Neighbours: To classify images of handwritten digits (0-9) using the k-Nearest Neighbors algorithm.
 
 

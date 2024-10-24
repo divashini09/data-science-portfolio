@@ -1,1 +1,10 @@
+Data Science Portfolio
+
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, and R markdown files (published at RPubs).
+
+Microprojects:
+
+Python
+- ML with Logistic Regression. To predict whether a customer will buy a product (1) or not (0) based on features such as age, income, and gender.
+
 

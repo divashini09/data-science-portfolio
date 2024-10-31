@@ -12,7 +12,7 @@ ___________________________________________________________________________
 
 Machine Learning
 - Supervised Learning: Identifying Potential Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
-- 
+- Identifying the worth of houses in Pune city: 
 
 ___________________________________________________________________________
 

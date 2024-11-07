@@ -10,6 +10,7 @@ ___________________________________________________________________________
 
 Data Analysis and Visualization
 - 911 Calls: This project involves conducting exploratory data analysis on the 911 calls dataset available on Kaggle. It showcases the extraction of valuable features from various variables.
+- Stock Market Analysis: Analysis of tech stocks, including price changes over time, daily returns, and predictions of stock behavior.
 
 ___________________________________________________________________________
 
